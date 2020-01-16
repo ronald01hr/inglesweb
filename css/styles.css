@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(../fondo.jpg) ;
+    font-family: cursive;
+}
+
+.imagenc{
+    width: 100%;
+    height: 100%;
+    max-width: 1100px;
+    max-height: 650px;
+}
+
+
+.icono-main{
+    width: 300px !important;
+    height: 200px !important;
+}
+
+
+
+.t-social{
+    font-size: 50px;
+   
+}
+
+.sociales:hover{
+    background-color: rgba(0,0,0,0.2);
+}
+.t-social:hover{
+    color: white;
+    
+}
+
+
+.text-footer{
+    color: white;
+    font-size: 30px;
+    
+}
+
+.prc{
+    font-size: 25px;
+}
+
+.medio {
+    background: linear-gradient(35deg, #000000de, #9a333361);
+}
+
+.col-lg-3 {
+    background: aliceblue;
+    border-radius: 50px;
+    border-style: double;
+    
+}
+/*
+.ult {
+    background: aliceblue;
+    margin-right: -10px;
+    
+}
+*/
+.img5{
+    margin: 10px;
+    width: 40%;
+    height: 40px;
+    margin-left: -15px;
+}
+
+/*
+
+form {
+    border: 3px solid #7b7474;
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #192c528a;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+*/
